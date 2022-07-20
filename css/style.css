@@ -39,7 +39,7 @@ main {
     border-radius: 5px;
     border: 1px var(--corClara) solid;
     background-color: var(--corMedia);
-    width: 70%;
+    width: 85%;
     /* width: 500px; */
     height: 90px;
     margin: 50px;
@@ -83,7 +83,7 @@ button:active {
     flex-direction: column;
     overflow-y: scroll;
     border: 2px solid #fff;
-    width: 80%;
+    width: 95%;
     height: 65vh;
 }
 
@@ -98,7 +98,7 @@ button:active {
     align-items: center;
     padding: 10px 0 10px 10px;
     background-color: var(--corMedia);
-    width: 70%;
+    width: 85%;
     height: 90px;
     margin: 25px auto;
     border-radius: 5px;
